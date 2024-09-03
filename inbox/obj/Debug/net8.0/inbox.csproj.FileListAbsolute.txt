@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\inbox\inbox\bin\Debug\net8.0\inbox.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\inbox\inbox\bin\Debug\net8.0\inbox.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\inbox\inbox\bin\Debug\net8.0\inbox.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\inbox\inbox\bin\Debug\net8.0\inbox.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\inbox\inbox\bin\Debug\net8.0\inbox.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\inbox\inbox\obj\Debug\net8.0\inbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\inbox\inbox\obj\Debug\net8.0\inbox.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\inbox\inbox\obj\Debug\net8.0\inbox.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\inbox\inbox\obj\Debug\net8.0\inbox.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\inbox\inbox\obj\Debug\net8.0\inbox.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\inbox\inbox\obj\Debug\net8.0\refint\inbox.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\inbox\inbox\obj\Debug\net8.0\inbox.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\inbox\inbox\obj\Debug\net8.0\inbox.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\inbox\inbox\obj\Debug\net8.0\ref\inbox.dll
